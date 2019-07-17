@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "libelle": "backlog",
+      "heure_tache_prevu": 8,
+      "etat": "en attente",
+      
+    },
+    {
+      "projet": "Gestion  des projets",
+      "tache": "tache1",
+      "reference": "soustache2",
+      "description": "description soustache2 ",
+      "date_debut": "2019-07-03",
+      "date_fin_prevu": "2019-07-04",
+      "heure_tache_prevu": 8,
+      "etat": "en attente",
+      "idparent": 2
+    }
+  ]
+}
