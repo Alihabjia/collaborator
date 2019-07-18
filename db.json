@@ -17,7 +17,7 @@
             "email":"aymane.bouhadou@gmail.com",
             "telephone":"0633445566",
             "role":"Developpeur",
-            "image":"http://www.france-automobile.fr/wp-content/uploads/2018/07/78.jpg"
+            "image":"https://media.monolithicpower.com/wysiwyg/employee-img1.png"
            },
           {
             "id":3,
@@ -26,7 +26,7 @@
             "email":"denzy.kenza@gmail.com",
             "telephone":"0661010203",
             "role":"Front end",
-            "image":"https://www.fourchette-et-bikini.fr/sites/default/files/styles/full_670x350/public/employe-signe-astro.jpg?itok=XspepZo6"
+            "image":"https://media.monolithicpower.com/wysiwyg/employee-img2.png"
           }
             ]
  }
