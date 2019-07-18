@@ -7,7 +7,8 @@
             "prenom":"Ali",
             "email":"Ali.habjia@gmail.com",
             "telephone":"0669203659",
-            "role":"Front end"
+            "role":"Front end",
+            "image":"https://www.bhsf.co.uk/images/home/corporate.png"
           },
           {
             "id":2,
@@ -15,7 +16,17 @@
             "prenom":"Aymane",
             "email":"aymane.bouhadou@gmail.com",
             "telephone":"0633445566",
-            "role":"Developpeur"
-            }
+            "role":"Developpeur",
+            "image":"http://www.france-automobile.fr/wp-content/uploads/2018/07/78.jpg"
+           },
+          {
+            "id":3,
+            "nom":"Denzy",
+            "prenom":"Kenza",
+            "email":"denzy.kenza@gmail.com",
+            "telephone":"0661010203",
+            "role":"Front end",
+            "image":"https://www.fourchette-et-bikini.fr/sites/default/files/styles/full_670x350/public/employe-signe-astro.jpg?itok=XspepZo6"
+          }
             ]
  }
